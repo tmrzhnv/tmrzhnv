@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beibit</h1>
-<h3 align="center">Enthusiastic Full-Stack Developer from Kazakhstan</h3>
+<h3 align="center">Enthusiastic Full-Stack Developer based in London</h3>
 <p align="center">
   Passionate about crafting dynamic and user-friendly web solutions. With a strong foundation in computer science and a keen interest in modern web technologies, I'm always ready to dive into challenging projects and innovative solutions.
 </p>
@@ -12,6 +12,9 @@
 📫 How to reach me: beibittem01@gmail.com
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/beibit-temirzhanov-367664231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/beibit-temirzhanov-367664231/" height="30" width="40" /></a>
+</p>
 <p align="left">
 [Beibit Temirzhanov - LinkedIn](https://www.linkedin.com/in/beibit-temirzhanov-367664231/)
 </p>
